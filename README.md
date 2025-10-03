@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bashonregardless
-- 👀 I’m interested in building on top of my existing knowledge of computers and learning new things along the way.
+- 👀 I’m interested AI/ML.
 - 🌱 I’m currently learning.
 - 💞️ I’m looking to collaborate.
 - 📫 How to reach me ...
